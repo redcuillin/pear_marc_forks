@@ -30,11 +30,16 @@ One or more of the submodules can be added via composer in the following way:
         {
             "type": "vcs",
             "url": "https://github.com/redcuillin/php-marc-spec"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/redcuillin/File_MARC_Reference"
         }
     ],
     "require": {
         "ck/php-marcspec": "dev-master as 2.999.0",
-        "pear/file_marc": "dev-PHP8.4+-support",
+        "ck/file_marc_reference": "dev-master as 1.999.0",
+        "pear/file_marc": "dev-master",
         "pear/validate_ispn": "dev-master",
         "pear/validate": "dev-master",
         "scriptotek/marc": "dev-main"
