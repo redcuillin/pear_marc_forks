@@ -3,7 +3,7 @@
 	url = git@github.com:redcuillin/File_MARC.git
 [submodule "File_MARC_Reference"]
 	path = File_MARC_Reference
-	url = git@github.com:MARCspec/File_MARC_Reference.git
+	url = git@github.com:redcuillin/File_MARC_Reference.git
 [submodule "marcspec"]
 	path = marcspec
 	url = git@github.com:redcuillin/php-marc-spec.git
