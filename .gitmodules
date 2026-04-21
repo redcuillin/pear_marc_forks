@@ -1,0 +1,6 @@
+[submodule "File_MARC"]
+	path = File_MARC
+	url = git@github.com:redcuillin/File_MARC.git
+[submodule "File_MARC_Reference"]
+	path = File_MARC_Reference
+	url = git@github.com:MARCspec/File_MARC_Reference.git
