@@ -4,3 +4,15 @@
 [submodule "File_MARC_Reference"]
 	path = File_MARC_Reference
 	url = git@github.com:MARCspec/File_MARC_Reference.git
+[submodule "marcspec"]
+	path = marcspec
+	url = git@github.com:redcuillin/php-marc-spec.git
+[submodule "php-marc"]
+	path = php-marc
+	url = git@github.com:redcuillin/php-marc.git
+[submodule "Validate"]
+	path = Validate
+	url = git@github.com:redcuillin/Validate.git
+[submodule "Validate_ISPN"]
+	path = Validate_ISPN
+	url = git@github.com:redcuillin/Validate_ISPN.git

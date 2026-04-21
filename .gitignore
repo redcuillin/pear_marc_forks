@@ -1,0 +1,9 @@
+File_MARC/
+File_MARC_Reference/
+marcspec/
+Validate/
+Validate_ISPN/
+php-marc/
+vendor/
+PEAR_FORKS.code-workspace
+composer.lock
